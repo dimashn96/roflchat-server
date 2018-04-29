@@ -5,7 +5,7 @@
   "scripts": {
     "start": "tsc && node build/server",
     "server": "node build/server",
-    "tsc": "tsc"
+    "build": "tsc"
   },
   "engines": {
     "node": "~9.9.0",
